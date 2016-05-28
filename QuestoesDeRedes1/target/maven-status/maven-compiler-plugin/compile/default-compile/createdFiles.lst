@@ -1,0 +1,6 @@
+models\Pergunta.class
+controllers\Index.class
+controllers\Comando.class
+controllers\VerificaResposta.class
+dao\Dao.class
+controllers\MainController.class
