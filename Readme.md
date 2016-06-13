@@ -9,6 +9,8 @@ Cassio Antoniazi
 <br>
 Rafael Queiroz
 <br>
+<br>
+<br>
 Número de jogadores : 1 a 4
 <br>
 Objetivo final: chegar ao final do percurso
