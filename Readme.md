@@ -1,12 +1,21 @@
-Diego Szmidtke - 10/6/2016 21:49 <br><br>
+Trabalho da cadeira de Redes de Computadores
 
+Componentes do grupos:
+Rhuan Barros
+<br>
+Diego Szmidtke
+<br>
+Cassio Antoniazi
+<br>
+Rafael Queiroz
+<br>
 Número de jogadores : 1 a 4
 <br>
 Objetivo final: chegar ao final do percurso
 <br>
 Objetos do jogo: Tabuleiro, pinos e tablet
 <br>
-Definição: cada jogador joga o dado digital e avança a quantidade de casas tiradas no dado.<br>
+Definição: cada jogador joga o dado digital e avança a quantidade de casas tiradas no dado.
 <br>
 Objetivos: em cada jogada o jogador responde a pergunta referente a camada da posição do tabuleiro. 
 <br>
